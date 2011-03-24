@@ -1,0 +1,8 @@
+##############################################################
+#
+# AJ Mancini IV
+# Clemson University, 2011
+# 
+# This app wraps the Numara Footprints api to allow laptop support technicians to edit ticket details without accessing the main website.  Uses less seats and does not require them to log in.
+#
+##############################################################
