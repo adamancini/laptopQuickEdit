@@ -1,0 +1,90 @@
+html {
+	margin: 0;
+	padding: 6px;
+}
+body { 
+	font-family: 'Georgia', serif;;
+	padding: 0;
+}
+
+select {
+	float: right;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	padding: 0px;
+	margin: 0px;
+}
+
+input {
+	font-family: 'Georgia', serif;
+}
+
+.title {
+	margin-bottom: 24px;
+}
+
+.row {
+	font-weight: bold;
+}
+
+.p-descriptions {
+	
+	font-weight: bold;
+	margin-top: 24px;
+}
+
+.p-history {
+	align: left;
+	font-weight: bold;
+	margin-top: 24px;
+}
+
+.section-details-table {
+	padding: 6px;
+	width: 100%;
+}
+
+.section-descriptions {
+	padding: 6px;
+	width: 100%;
+}
+
+.section-history {
+	
+	padding: 6px;
+	width: 100%;
+}
+
+#main {
+	width: 1024px;
+}
+
+#left {
+	float: left;
+	width: 500px;
+	padding: 6px;
+}
+
+#right {
+	float: right;
+	width: 500px;
+	padding: 6px;
+}
+
+#textarea-description {
+	width: 95%;
+	font-family: 'Georgia', serif;
+}
+
+#select-status {
+	margin-right: 255px;
+}
+
+#select-quickdesc {
+	margin-right: 20px;
+}
+
+#history {
+	font-size: 75%;
+}
